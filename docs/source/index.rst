@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Bocpong's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+Lumache hosts its documentation on Read the Docs.
